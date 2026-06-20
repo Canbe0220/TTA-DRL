@@ -1,4 +1,4 @@
-# TAEPPO
+# TTA-DRL
 Implementation of the paper "TTA-DRL: A Tri-Topology Attention Based Deep Reinforcement Learning Framework for Flexible Job Shop Scheduling"
 
 ## Get Started
